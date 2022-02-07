@@ -1,7 +1,7 @@
 
-#Readme
+# Readme
 Welcome to the official Techopolis  Python GUI challenge.
-The goal is to see what Python GUI framework is the best between PYQT6 and WX Python for building accessible applications.
+The goal is to see what Python GUI framework is the best between PySide6 and WX Python for building accessible applications.
 
 ## challenge rules.
 * 1 Menu
